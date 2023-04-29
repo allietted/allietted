@@ -10,6 +10,7 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **alliettedortelus@gmail.com**
+- 🧠  React || Typescript || NodeJS || ExpressJS || || React Native || Javascript || || MongoDB || SQL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
