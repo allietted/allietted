@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allietted&show_icons=true&locale=en" alt="allietted" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allietted&" alt="allietted" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=allietted&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
