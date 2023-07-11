@@ -22,3 +22,5 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=allietted&theme=nightowl)](https://git.io/streak-stats)
+
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=allietted&theme=github_dark&layout=compact" width="600" alt="languages graph"  />
