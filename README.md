@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋🏽, Alliette Dortelus</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Full Stack Software Engineer 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allietted&label=Profile%20views&color=0e75b6&style=flat" alt="allietted" /> </p>
 
-- 📝 I regularly read articles on [Medium](Medium)
+📝 I regularly read articles on [Medium](Medium)
 
-- 💬 Ask me about **React and NextJS**
+💬 Ask me about **React and NextJS**
 
-- 📫 How to reach me **alliettedortelus@gmail.com**
-- 🧠  React || Typescript || NodeJS || ExpressJS || || React Native || Javascript || || MongoDB || SQL
+✉️ You can contact me at [📩](mailto:alliettedortelus@gmail.com )
+🧠  React || Typescript || NodeJS || ExpressJS || || React Native || Javascript || || MongoDB || SQL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
