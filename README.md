@@ -8,6 +8,7 @@
 💬 Ask me about **React and NextJS**
 
 ✉️ You can contact me at [📩](mailto:alliettedortelus@gmail.com )
+
 🧠  React || Typescript || NodeJS || ExpressJS || || React Native || Javascript || || MongoDB || SQL
 
 <h3 align="left">Connect with me:</h3>
