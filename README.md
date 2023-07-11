@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allietted&label=Profile%20views&color=0e75b6&style=flat" alt="allietted" /> </p>
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly read articles on [Medium](Medium)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React and NextJS**
 
 - 📫 How to reach me **alliettedortelus@gmail.com**
 - 🧠  React || Typescript || NodeJS || ExpressJS || || React Native || Javascript || || MongoDB || SQL
