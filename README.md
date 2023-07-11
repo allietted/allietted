@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allietted&label=Profile%20views&color=0e75b6&style=flat" alt="allietted" /> </p>
 
-📝 I regularly read articles on [Medium](Medium)
+🌍  I'm based in Florida 
 
 💬 Ask me about **React and NextJS**
 
